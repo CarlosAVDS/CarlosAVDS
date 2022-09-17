@@ -16,7 +16,7 @@
  ##
   
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAVDS&show_icons=true&theme=codeSTACKr&count_private=true"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAVDS&show_icons=true&theme=codeSTACKr&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=CarlosAVDS&show_icons=true&show_icons=true&theme=codeSTACKr&count_private=true" />
 </div>
   
@@ -25,7 +25,7 @@
 <div> 
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    target="_blank"></a> 
   <a href = "mailto:carlosalbertovds04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"              target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlos-alberto-v-56138312a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-       badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/carlos-alberto-v-56138312a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  

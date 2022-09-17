@@ -1,4 +1,4 @@
-<img src = "giphy.gif" width = "400px" align = "right">
+<img src = "giphy.gif" width = "350px" align = "right">
 
 ## Oi eu sou o Carlos, estudante de tecnologia!
 - 🌱 I’m currently learning Front-End

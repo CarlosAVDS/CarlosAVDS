@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "giphy.gif" width = "325px" align = "right">
 
 ## Oi eu sou o Carlos, estudante de tecnologia!
 - 🌱 I’m currently learning Front-End
@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/CarlosAVDS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=CarlosAVDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosAVDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosAVDS&layout=compact&langs_count=7&theme=dracula"/>]
 </div>
 

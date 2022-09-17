@@ -1,5 +1,7 @@
 <img src = "giphy.gif" width = "325px" align = "right">
 
+<br>
+
 ## Oi eu sou o Carlos, estudante de tecnologia!
 - 🌱 I’m currently learning Front-End
 

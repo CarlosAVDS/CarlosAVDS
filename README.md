@@ -86,26 +86,24 @@
 
 ### 📊 Estatísticas
 
-<p align='center'>
+<div align-text="center">
   <img 
-      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosAVDS&theme=bear&locale=pt-br" 
   />
-  
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
     src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosAVDS&theme=bear" 
   />
+  <br/> 
 
-</p>
-<br/> 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosAVDS&theme=bear)
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CarlosAVDS&theme=bear)
+
 
 ###
 
